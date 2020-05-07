@@ -4,4 +4,4 @@ Credit goes to the following api:
 
 https://github.com/PrayerTimeResearch/PrayerTimeAPI
 
-I use this data to make the table. 
+I used this api to get the data and make the table. 
